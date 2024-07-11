@@ -1,7 +1,7 @@
 [!MasterHead](https://wallpaperaccess.com/full/1704555.jpg)
 <h1 align="center">Hi 👋, I'm Balraj Singh</h1>
 <h3 align="center">Passionate about leveraging data to drive insights and solutions</h3>
-<img align ="right" alt="DataScience" width="400" src= "https://in.images.search.yahoo.com/images/view;_ylt=AwrKCa55O5BmOEoRyRa9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzg4NDE4NDBlYWJlYmQ5YjBkOGY3NjczYmM4N2IxZjg5BGdwb3MDMTEwBGl0A2Jpbmc-?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3DAnimated%2Bimages%2Bof%2BFinacial%2BAnalytics%26ei%3DUTF-8%26type%3DE210IN826G0%26fr%3Dmcafee%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Asb-top%26nost%3D1%26tab%3Dorganic%26ri%3D110&w=1200&h=900&imgurl=imgk.timesnownews.com%2Fstory%2FData_analytics_iStock.jpg&rurl=https%3A%2F%2Fwww.timesnownews.com%2Fcolumns%2Farticle%2Fbuilding-data-analytics-capabilities-in-the-finance-and-accounting-function%2F634639&size=112.0KB&p=Animated+images+of+Finacial+Analytics&oid=8841840eabebd9b0d8f7673bc87b1f89&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&fr=mcafee&tt=Building+data+analytics+capabilities+in+the+finance+and+accounting+function&b=61&ni=160&no=110&ts=&tab=organic&sigr=.vv9ee4BXKTR&sigb=XuTIvbxpTocf&sigi=pq95n.BOG9x5&sigt=Hs6GbY0r8bjz&.crumb=TLuNEno3H0Z&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&type=E210IN826G0">
+<img align ="right" alt="Coding" width="400" src= "https://img.freepik.com/premium-vector/man-working-laptop-home-vector-illustration-cartoon-style_1142-66344.jpg">
 
 - 🌱 I’m currently learning **AI Agents and Time Series Data Analysis**
 
