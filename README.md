@@ -1,4 +1,4 @@
-![logo](https://github.com/balrajthe/balrajthe/blob/main/Github%20Banner.jpg)
+![logo](https://github.com/balrajthe/balrajthe/blob/main/Github%20Banner1.jpg)
 <h1 align="center">Hi 👋, I'm Balraj Singh</h1>
 <h3 align="center">Passionate about leveraging data to drive insights and solutions</h3>
 <img align ="right" alt="Coding" width="400" src= "https://wallpapercave.com/wp/wp3188159.jpg">
